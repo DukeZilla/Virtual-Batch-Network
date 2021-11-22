@@ -1,4 +1,4 @@
-#Virtal Batch Network
+# Virtal Batch Network
 
 This program is essentially a VPN with the use of batch / vbs scripting,
 and connects to VPNs via rasdial command.
@@ -10,4 +10,4 @@ After you're done configuring it will be saved under "loadvpn.cfg".
 Telnetmyip.bat is used to reveal your new ip address after the VPN
 is activated.
 
-**~ DukeZilla 2021**
+** ~ DukeZilla 2021 **
